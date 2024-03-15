@@ -1,0 +1,1 @@
+C:\Users\anton\AppData\Local\Programs\Python\Python312-32\Scripts\pyinstaller.exe AscortClicker.py -F  --onefile --icon=icon.ico
